@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://D:\ALUMNO\FirebaseApp\FirebaseApp\FirebaseApp.iml" filepath="D:\ALUMNO\FirebaseApp\FirebaseApp\FirebaseApp.iml" />
+      <module fileurl="file://C:\Users\alexi\ServicioFireBaseApp\FirebaseApp\FirebaseApp.iml" filepath="C:\Users\alexi\ServicioFireBaseApp\FirebaseApp\FirebaseApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FirebaseApp-master.iml" filepath="$PROJECT_DIR$/FirebaseApp-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://C:\Users\alexi\ServicioFireBaseApp\FirebaseApp\app\app.iml" filepath="C:\Users\alexi\ServicioFireBaseApp\FirebaseApp\app\app.iml" />
+      <module fileurl="file://D:\ALUMNO\FirebaseApp\FirebaseApp\app\app.iml" filepath="D:\ALUMNO\FirebaseApp\FirebaseApp\app\app.iml" />
+    </modules>
+  </component>
+</project>
